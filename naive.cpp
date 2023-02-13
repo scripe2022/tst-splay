@@ -1,5 +1,3 @@
-// compile: g++ -o naive naive.cpp
-// run: ./naive < data.in
 #include <iostream>
 #include <set>
 

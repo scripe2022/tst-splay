@@ -1,5 +1,3 @@
-// compile: g++ -o data data.cpp
-// run: ./data < data.in > data.out
 #include <bits/stdc++.h>
 
 using namespace std;
