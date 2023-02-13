@@ -1,9 +1,9 @@
 #!/usr/bin/python3
 import random
 import string
-n = 4     # num of strings
-m = 2      # len of string
-k = 2       # inserts k times as often as queries
+n = 100000     # num of strings
+m = 20         # len of string
+k = 2          # inserts k times as often as queries
 
 print(n)
 st = set()
